@@ -7,5 +7,5 @@ Scripts/
 share/
 pyvenv.cfg
 .idea
-.vscode
+.pccharm
 comandas_db.db
